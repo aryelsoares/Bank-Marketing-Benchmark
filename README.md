@@ -9,12 +9,12 @@ Eight machine learning models were used to make the prediction. In addition to d
 
 
 | Model                     | Accuracy | Evaluation |
-| ------------------------- |:--------:|:----------:|
+| :------------------------ |:--------:|:----------:|
 | Naive Bayes               | 75.48%   | 76.46%     |
 | Decision Trees            | 86.85%   | 86.31%     |
 | Random Forest             | 88.47%   | 88.25%     |
 | XGBoost                   | 88.58%   | 88.26%     |
-| K-Nearest Neightbors      | 84.48%   | 84.30%     |
+| K-Nearest Neighbors       | 84.48%   | 84.30%     |
 | Logistic Regression       | 85.72%   | 85.53%     |
 | Support Vector Machine    | 88.04%   | 87.07%     |
 | Artificial Neural Network | 87.28%   | 86.76%     |
